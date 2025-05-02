@@ -90,3 +90,5 @@ php artisan test
 
 ## Dokumentasi API
 Lihat [API_DOCUMENTATION.md](API_DOCUMENTATION.md) untuk dokumentasi endpoint API.
+
+https://ziyadazharurrizky.postman.co/workspace/Ziyad-Azharur-Rizky's-Workspace~8b473b3c-0a76-43ed-809d-3abc98a370c6/request/44623797-61baa9cc-67ea-46b6-9ca9-bde284725826?action=share&creator=44623797&ctx=documentation
